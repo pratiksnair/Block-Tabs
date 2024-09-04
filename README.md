@@ -5,7 +5,7 @@ Block Tabs [AMO Signed] is a lightweight browser extension designed to enhance s
 ## Features:
 
 - **Tab Limitation:** Prevents users from opening more than one tab at a time, ensuring focused browsing and reducing the risk of distractions or unintended data leaks. A beep sound notifies the user when a new tab is blocked.
-- 
+  
 - **Right-Click Restriction:** Disables the right-click context menu on webpages containing password fields, preventing unauthorized actions such as copying or inspecting sensitive information.
 
 - **Developer Tools Prevention:** Blocks access to Developer Tools (Inspect) when a password field is detected on the page, safeguarding against attempts to view or manipulate source code or hidden fields.
