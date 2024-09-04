@@ -1,6 +1,6 @@
 # Block Tabs - A Security-Focused Browser Extension
 
-Description: Block Tabs is a lightweight browser extension designed to enhance security by controlling the browsing environment. It restricts the opening of multiple tabs, disables right-click, and prevents access to Developer Tools (Inspect) on webpages containing password fields. This extension is ideal for environments where data security is critical, such as corporate intranets, financial services, or any situation requiring strict browsing policies.
+Block Tabs is a lightweight browser extension designed to enhance security by controlling the browsing environment. It restricts the opening of multiple tabs, disables right-click, and prevents access to Developer Tools (Inspect) on webpages containing password fields. This extension is ideal for environments where data security is critical, such as corporate intranets, financial services, or any situation requiring strict browsing policies.
 
 ## Features:
 
