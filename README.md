@@ -10,6 +10,11 @@ Block Tabs [AMO Signed] is a lightweight browser extension designed to enhance s
 
 - **Developer Tools Prevention:** Blocks access to Developer Tools (Inspect) when a password field is detected on the page, safeguarding against attempts to view or manipulate source code or hidden fields.
 
+## How It Works: 
+The extension operates through background and content scripts:
+- **Background Script:** Monitors tab creation and closes any additional tabs beyond the first one, triggering an audible alert.
+- **Content Script:** Detects password fields on a webpage and, if present, disables right-click and the ability to open Developer Tools.
+
 ## Use Cases:
 
 - **Corporate Security:** Ideal for companies looking to enforce strict browsing policies on internal systems.
@@ -18,9 +23,3 @@ Block Tabs [AMO Signed] is a lightweight browser extension designed to enhance s
 
 ## Installation:
 Official Mozilla Add-On Link: <a>https://shorturl.at/ghrF4</a>
-
-## How It Works: 
-The extension operates through background and content scripts:
-- **Background Script:** Monitors tab creation and closes any additional tabs beyond the first one, triggering an audible alert.
-- **Content Script:** Detects password fields on a webpage and, if present, disables right-click and the ability to open Developer Tools.
-
