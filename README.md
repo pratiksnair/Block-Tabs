@@ -17,6 +17,7 @@ Block Tabs [AMO Signed] is a lightweight browser extension designed to enhance s
 - **Financial Services:** Prevents unauthorized access to sensitive data by restricting common browser functionalities.
 
 ## Installation:
+Official Mozilla Add-On Link: <a>https://shorturl.at/ghrF4</a>
 
 ## How It Works: 
 The extension operates through background and content scripts:
