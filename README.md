@@ -22,4 +22,4 @@ The extension operates through background and content scripts:
 - **Financial Services:** Prevents unauthorized access to sensitive data by restricting common browser functionalities.
 
 ## Installation:
-Official Mozilla Add-On Link: <a>https://shorturl.at/ghrF4</a>
+Official Mozilla Add-On Link: <a>https://addons.mozilla.org/en-US/firefox/%E2%80%A6/blocktabs/</a>
