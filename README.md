@@ -18,7 +18,7 @@ Description: Block Tabs is a lightweight browser extension designed to enhance s
 
 ## Installation:
 
-##How It Works: 
+## How It Works: 
 The extension operates through background and content scripts:
 - **Background Script:** Monitors tab creation and closes any additional tabs beyond the first one, triggering an audible alert.
 - **Content Script:** Detects password fields on a webpage and, if present, disables right-click and the ability to open Developer Tools.
