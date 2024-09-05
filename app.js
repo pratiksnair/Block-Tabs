@@ -1,10 +1,10 @@
 document.addEventListener('keydown',function(event){
     if (event.key === 'F12' || (event.ctrlKey && event.shiftKey && event.Key === 'I'))
     {
-        console.log('Developer tools are restricted Sir');
+        console.log('Developer tools are restricted');
         event.preventDefault();
         event.stopImmediatePropagation();
-        alert('Iraje Policy Restrictions');
+        alert('Developer Tools are restricted');
     }
 });
 
@@ -13,7 +13,7 @@ function disableRightClick() {
     // Create an event listener function
     function onContextMenu(event) {
         event.preventDefault(); // Prevent the default context menu from appearing
-        alert("Right-clicking is restricted on this page as per Iraje Policy.");
+        alert("Right-clicking is restricted on this page");
     }
     
     // Add the event listener to disable right-click
